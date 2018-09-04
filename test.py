@@ -12,5 +12,3 @@ print('去年成绩：%d,今年成绩：%d,今年提高的成绩百分比：%0.2
 #End
 
 #Test Publish
-
-#Test Branch 1
